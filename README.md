@@ -62,7 +62,7 @@ APP(BE) - 지도기반 관광지 포토 챌린지 앱 개발 9인 프로젝트 (
 
 2022.07 하계 2주 영국 현지 IT해외교육 참가
 
-2022.03 ossca spring azure SDK 1박2일 교육
+[2022.03 ossca spring azure SDK 1박2일 교육](https://github.com/jangdayeon/azure-sdk-korean)
 
 2021.05 ~ 2021.09 프론트엔드 스터디
 
