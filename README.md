@@ -2,7 +2,7 @@
 > 안녕하세요! 망설임 없이 도전하기 위해 지속적으로 배우려고 노력하는 백엔드 개발자, 장다연입니다.
 
 
-![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jjangda-y.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://jjangda-y.tistory.com/)](https://jjangda-y.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:010865502234a@gmail.com)](mailto:01086502234a@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hyejmh@naver.com)](mailto:hyejmh@naver.com)
 
