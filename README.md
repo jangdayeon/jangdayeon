@@ -12,7 +12,6 @@ System.out.println("안녕하세요! 웹 개발자 장다연입니다.");
 <details>
 <summary>🎖️ 수상 이력 보기</summary>
 
-- 하나은행 디지털 하나로 금융 서비스 개발 4기, 최우수 수료자 (2025.02)  
 - [하나은행 디지털 하나로 금융 서비스 개발 4기 발표회, 프로젝트 우수팀](https://github.com/hanaro4-dIA) (2024.12)  
 - [관광데이터 활용 공모전, 장려상 – 한국관광공사](https://github.com/photo-challenger/Backend) (2024.11)  
 - [강원SW페스티벌, 우수상 – SW중심대학사업단](https://github.com/project-fourtato/Backend_v4) (2024.08)  
