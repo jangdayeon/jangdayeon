@@ -3,7 +3,7 @@ System.out.println("안녕하세요! 웹 개발자 장다연입니다.");
 ```
 
 ## 🏃‍♀️ Activity
-- 한림대학교 조기졸업 예정 (2021.03 ~ 2025.08)
+- 한림대학교 조기졸업 (2021.03 ~ 2025.08)
 - 디지털 하나로 금융서비스개발 4기 최우수 수료 (2024.08 ~ 2025.02)
 - SW봉사단 총무 담당 및 봉사활동 참여(2022.09 ~ 2023.02)
 - 하계 2주 영국 현지 IT해외교육 참가 (2022.07)
@@ -64,3 +64,11 @@ System.out.println("안녕하세요! 웹 개발자 장다연입니다.");
 - **Tools**: Postman, Notion, Jira  
 
 ![Tech Stack Icons](https://skillicons.dev/icons?i=java,spring,mysql,ts,react,tailwind,aws)
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jangdayeon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jangdayeon"
+  width="600"
+  height="300"
+/>
+</a>
