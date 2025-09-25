@@ -59,11 +59,11 @@ System.out.println("안녕하세요! 웹 개발자 장다연입니다.");
 ## 💻 Tech Stack
 
 - **Backend**: Java, Spring Boot, MySQL
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS  
-- **Infra & DevOps**: AWS (EC2, S3, RDS), GitHub Actions  
-- **Tools**: Postman, Notion, Jira  
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Infra & DevOps**: AWS (EC2, S3, RDS, ECR), GitHub Actions, Nginx
+- **Tools**: GitHub, Postman, Notion, Jira
 
-![Tech Stack Icons](https://skillicons.dev/icons?i=java,spring,mysql,ts,react,tailwind,aws)
+![Tech Stack Icons](https://skillicons.dev/icons?i=java,spring,mysql,ts,react,next,aws)
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jangdayeon&utm_content=farm">
 <img
